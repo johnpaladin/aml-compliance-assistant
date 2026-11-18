@@ -11,7 +11,7 @@ A RAG-based Q&A assistant that helps bank compliance staff answer AML/KYC questi
 ## Scope (v1)
 
 - Domain: AML / KYC only
-- Users: ~50 compliance staff across 3 branches (fictional bank)
+- Users: ~50 users across 3 pilot branches, plus the 12-person Compliance team (fictional bank)
 - Interface: standalone web app
 - Region: GCP `asia-east1`
 
